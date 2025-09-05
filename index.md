@@ -1,4 +1,4 @@
-# Jacob Lukose's First CS193 Homework!
+# Jacob Lukose's First CS193 Homework
 
 ### About Me
 
